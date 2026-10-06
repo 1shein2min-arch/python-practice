@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+.env
+*.db
+*.csv
+*.json
+*.txt
+.vscode/
+*
+!*.py
+!.gitignore
+/403.PY
