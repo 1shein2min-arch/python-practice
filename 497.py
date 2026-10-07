@@ -19,3 +19,5 @@ print(result)
 print("Git Practice")
 
 print("Git diff practice")
+
+print("Git Pull Practice")
